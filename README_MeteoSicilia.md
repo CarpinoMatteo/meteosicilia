@@ -13,7 +13,7 @@ Real-time weather for Sicily, built on top of a weather station we designed, sol
 ![ESP32](https://img.shields.io/badge/ESP32--S3-E7352C?logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white)
 
-![Meteo Sicilia on desktop and mobile](docs/images/hero-devices.png)
+![Meteo Sicilia on desktop and mobile](<img width="1800" height="1133" alt="hero-devices" src="https://github.com/user-attachments/assets/70dc0306-6415-4cc6-b38d-2e16abd64b05" />)
 
 ---
 
